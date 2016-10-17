@@ -1,0 +1,11 @@
+Write a short response to this week's readings: Include at least 2 things you 
+learned and 2 questions you have from the reading
+
+Learned:
+  1. When using a breadboard certain things need to be on the same line, otherwise it won't work.
+  2. Resisters can be used to stop too much power from going into things (servos, LEDs) and destroying them.
+
+Questoins:
+  1. Why do certain things attached to the breadboard have to be plugged in on the same line?
+  2. How do resisters work? (As in: what makes a resister resist? If I were to take it apart what would
+    it's insides do?
